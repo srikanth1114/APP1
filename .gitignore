@@ -1,0 +1,19 @@
+<html>
+<head>
+<title> My Info </title>
+</head>
+<body>
+<h1> This is about me</head>
+<h2> following are my habits</h2>
+<ol>
+ <li> WATCHING MOVIES</li>
+ <li> WATCHING CRICKET</li>
+ <li> PLAYING CRICKET</li>
+</ol>
+<h2> Following are my qulification</h2>
+<ul>
+  <li> Bacholors in Information Technology</li>
+  <li> Masters in ComputerScience</li>
+</ul>
+</body>
+</html>
